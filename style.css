@@ -55,6 +55,7 @@ h1 {
 }
 .popis{
     border-bottom: 2px solid #06d7c1;
+    width:300px;
 }
 .slogan{
     font-size:16px;
